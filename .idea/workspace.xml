@@ -4,29 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0368dbca-84cf-42b1-b0b1-0f7049386df9" name="Changes" comment="">
+    <list default="true" id="0368dbca-84cf-42b1-b0b1-0f7049386df9" name="Changes" comment="04.03">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw1/entities/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw1/entities/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw1/entities/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw1/entities/Post.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw1/entities/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/lombok.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw2/hw2_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw2/hw2_1/models/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw2/hw2_1/models/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw2/hw2_1/models/Geo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw2/hw2_1/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw2/hw2_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw2/hw2_2/models/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw2/hw2_2/models/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw2/hw2_2/models/Ultrabook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw2/hw2_2/models/Workstation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw2/hw2_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw2/hw2_3/models/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw2/hw2_3/models/Comics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw2/hw2_3/models/Magazine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw2/hw2_3/models/Papyrus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw2/hw2_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw2/hw2_4/enums/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw2/hw2_4/models/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw2/hw2_4/models/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw2/hw2_4/models/Skill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,6 +48,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;milaboniakevych&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/milaboniakevych/Java-okten-hw.git&quot;,
+    &quot;accountId&quot;: &quot;c3ff740d-44cb-4ce7-b297-d5f2b4c824a8&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -46,27 +68,39 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mboni/IdeaProjects/java-hw&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.core.hw2.hw2_1.Main.executor": "Run",
+    "Application.core.hw2.hw2_2.Main.executor": "Run",
+    "Application.core.hw2.hw2_3.Main.executor": "Run",
+    "Application.core.hw2.hw2_4.Main.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/mboni/IdeaProjects/Java-okten-hw/src/main/java/core/hw2/hw2_4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propCompiler",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mboni\IdeaProjects\Java-okten-hw\src\main\java\core\hw2\hw2_4" />
+      <recent name="C:\Users\mboni\IdeaProjects\Java-okten-hw\src\main\java\core\hw2\hw2_3" />
+      <recent name="C:\Users\mboni\IdeaProjects\Java-okten-hw" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="core.hw1.Main" />
@@ -103,12 +137,30 @@
       <option name="presentableId" value="Default" />
       <updated>1741088214175</updated>
       <workItem from="1741088215409" duration="6209000" />
-      <workItem from="1741094596367" duration="1410000" />
+      <workItem from="1741094596367" duration="1734000" />
+      <workItem from="1741096958633" duration="427000" />
+      <workItem from="1741098984687" duration="499000" />
+      <workItem from="1741254794944" duration="5250000" />
+      <workItem from="1741260098469" duration="2717000" />
+      <workItem from="1741262930683" duration="3362000" />
     </task>
+    <task id="LOCAL-00001" summary="04.03">
+      <option name="closed" value="true" />
+      <created>1741096578272</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741096578272</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="04.03" />
+    <option name="LAST_COMMIT_MESSAGE" value="04.03" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_okten_hw$Main.ic" NAME="Main Coverage Results" MODIFIED="1741094089298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
