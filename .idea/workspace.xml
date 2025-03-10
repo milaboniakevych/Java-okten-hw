@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0368dbca-84cf-42b1-b0b1-0f7049386df9" name="Changes" comment="06.03">
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw3/hw3_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw3/hw3_1/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw3/hw3_1/models/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw3/hw3_1/models/Magazine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw3/hw3_2/Instrument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw3/hw3_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw3/hw3_2/instruments/Drum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw3/hw3_2/instruments/Guitar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/hw3/hw3_2/instruments/Trumpet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0368dbca-84cf-42b1-b0b1-0f7049386df9" name="Changes" comment="09.03" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,7 +121,7 @@
       <workItem from="1741254794944" duration="5250000" />
       <workItem from="1741260098469" duration="2717000" />
       <workItem from="1741262930683" duration="3583000" />
-      <workItem from="1741506205122" duration="7584000" />
+      <workItem from="1741506205122" duration="7897000" />
     </task>
     <task id="LOCAL-00001" summary="04.03">
       <option name="closed" value="true" />
@@ -150,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741267079498</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="09.03">
+      <option name="closed" value="true" />
+      <created>1741518132019</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741518132019</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,7 +156,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="04.03" />
     <MESSAGE value="06.03" />
-    <option name="LAST_COMMIT_MESSAGE" value="06.03" />
+    <MESSAGE value="09.03" />
+    <option name="LAST_COMMIT_MESSAGE" value="09.03" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_okten_hw$Main.ic" NAME="Main Coverage Results" MODIFIED="1741094089298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">

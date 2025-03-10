@@ -2,6 +2,7 @@ package core.hw3.hw3_1;
 
 import core.hw3.hw3_1.models.Book;
 import core.hw3.hw3_1.models.Magazine;
+import core.hw3.hw3_1.models.Printable;
 
 import java.util.ArrayList;
 import java.util.List;

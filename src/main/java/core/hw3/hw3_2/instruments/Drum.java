@@ -1,6 +1,5 @@
 package core.hw3.hw3_2.instruments;
 
-import core.hw3.hw3_2.Instrument;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

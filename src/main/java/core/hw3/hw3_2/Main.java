@@ -2,6 +2,7 @@ package core.hw3.hw3_2;
 
 import core.hw3.hw3_2.instruments.Drum;
 import core.hw3.hw3_2.instruments.Guitar;
+import core.hw3.hw3_2.instruments.Instrument;
 import core.hw3.hw3_2.instruments.Trumpet;
 
 import java.util.ArrayList;
