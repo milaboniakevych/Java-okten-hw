@@ -1,4 +1,4 @@
-package core.hw5.cars;
+package core.hw5.carfleet;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -8,11 +8,9 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 
-public class Car {
+public class Driver {
 
     private String name;
-    private int enginePower;
-    private Driver driver;
-    private int price;
-    private int year;
+    private int age;
+    private double experience;
 }

@@ -1,7 +1,7 @@
 package core.hw5;
 
-import core.hw5.cars.Car;
-import core.hw5.cars.Driver;
+import core.hw5.carfleet.Car;
+import core.hw5.carfleet.Driver;
 
 import java.util.ArrayList;
 import java.util.Arrays;
